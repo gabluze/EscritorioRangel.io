@@ -81,7 +81,7 @@ nav a {
     color: var(--branco) !important;
     text-decoration: none;
     text-shadow: 0 1px 3px #C5A059;
-    font-family: 'Black Ops One', serif;
+    font-family: 'times new roman', serif;
 }
 
 nav a:hover {
@@ -96,7 +96,7 @@ nav a:hover {
     display: flex;
     align-items: center;
     gap: 8px;
-    font-family: 'Black Ops One', serif;
+    font-family: 'times new roman', serif;
 }
 
 /* .navbar-toggler {
@@ -280,7 +280,7 @@ footer p {
 
 .escritorio-section img {
     width: 100%;
-    height: 70vh;
+    height: 60vh;
 }
 
 .escritorio-section h2 {
@@ -293,7 +293,7 @@ footer p {
 }
 
 .escritorio-section p {
-    font-size: 1.2em;
+    font-size: 1.5em;
     color: var(--branco);
     text-align: justify;
     margin-bottom: 30px;
@@ -344,8 +344,8 @@ footer p {
 }
 
 .img-eqp img {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
     object-fit: cover;
     margin-right: 20px;
@@ -383,7 +383,7 @@ footer p {
 .accordion-header .accordion-button {
     background-color: var(--azul-escuro);
     color: var(--dourado);
-    font-size: 0.6em;
+    font-size: 1em;
     border: none;
     box-shadow: none;
 }
@@ -406,6 +406,7 @@ footer p {
 .accordion-body {
     color: var(--branco);
     text-align: justify;
+    font-size: 1.5em;
     padding: 10px 40px;
 }
 
@@ -477,7 +478,7 @@ footer p {
 
 .icon-rede {
     width: 35px;
-    background-color: #C5A059;
+    background-color: #ffffff;
     border-radius: 10px;
 }
 
